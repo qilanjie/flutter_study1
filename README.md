@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+getX 状态数据共享
+
+libserialport 串口库 主要调试安卓
+
+open_settings 打开安卓系统设置
+
+shared_preferences 参数存储
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
